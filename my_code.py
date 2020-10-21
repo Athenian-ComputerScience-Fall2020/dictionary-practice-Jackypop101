@@ -1,5 +1,5 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
-#  
+#  Python Dictionary video in class and https://www.w3schools.com/python/python_ref_dictionary.asp
 
 def make_dict():
     '''
